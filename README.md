@@ -40,7 +40,11 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 
 - **Investigación Operativa**  
   Colaboraciones al repositorio del equipo de Investigación Operativa de la UTN:  
-  [Repositorio Invo.py](https://github.com/investigacion-operativa-utn/invo.py)  
+  [Repositorio Invo.py](https://github.com/investigacion-operativa-utn/invo.py)
+
+- **Modelo de SVM y KNN (ML)**  
+  Colaboraciones al repositorio del equipo de Investigación Operativa de la UTN:
+  [Repositorio Deserciones Telco.py](https://github.com/ldedomenico/Data-Science-UTN.FRBA)
 
 ---
 
