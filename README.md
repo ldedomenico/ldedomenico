@@ -8,7 +8,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 
 - 🎓 **Estudiante de Ingeniería Industrial** en la Universidad Tecnológica Nacional (UTN FRBA).  
 - 🧑‍🏫 **Ayudante de Investigación Operativa**, trabajando en proyectos educativos y prácticos relacionados con optimización y algoritmos.  
-- 💼 Trabajo en **[YPF](https://www.ypf.com/)**, donde  soy Data Analyst y realizo modelos predictivos para la venta de combustibles. Además, estoy inmerso en un proyecto de **computer vision**.  
+- 💼 Trabajo en **[YPF](https://www.ypf.com/)**, donde soy **Data Analyst** y realizo modelos predictivos para la venta de combustibles. Además, estoy inmerso en un proyecto de **computer vision**.
 
 ---
 
@@ -20,12 +20,12 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 ## 🔧 **Tecnologías y habilidades**
 
 - **Lenguajes:** Python, SQL  
-- **Machine Learning:** Prophet, Optuna, scikit-learn, pandas, NumPy, cv, YOLO  
+- **Machine Learning:** Prophet, Optuna, scikit-learn, pandas, NumPy, OpenCV, YOLO  
 - **Visualización de datos:** Matplotlib, Seaborn, Plotly  
 - **Optimización:** Modelos lineales, métodos simplex  
-- **Otros:** Git, VS Code
+- **Otros:** Git, VS Code  
 
- ## 🌱 **Estoy aprendiendo**
+## 🌱 **Estoy aprendiendo**
 
 - Técnicas avanzadas de machine learning y deep learning.  
 - Aplicaciones de inteligencia artificial en visión por computadora.  
@@ -46,5 +46,16 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 - 🌍 **Argentina, Buenos Aires**. 
 - 💼 **LinkedIn**: [Luciano De Domenico](https://www.linkedin.com/in/luciano-de-domenico/)
 - 📧 **Email**: luciano.dedomenico01@gmail.com 
-- 🗨️ **Discord**: `luciano_dedomenico`  
+- 🗨️ **Discord**: `luciano_dedomenico`
+
+---
+
+## ⚙️ **GitHub Analytics**
+
+<p align="center">
+<a href="https://github.com/LucianoDeDomenico">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucianoDeDomenico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucianoDeDomenico&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
