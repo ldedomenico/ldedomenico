@@ -48,14 +48,5 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 - 📧 **Email**: luciano.dedomenico01@gmail.com 
 - 🗨️ **Discord**: `luciano_dedomenico`
 
----
 
-## ⚙️ **GitHub Analytics**
-
-<p align="center">
-<a href="https://github.com/LucianoDeDomenico">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LucianoDeDomenico&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LucianoDeDomenico&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
