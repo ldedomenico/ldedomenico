@@ -24,7 +24,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 - **Lenguajes:** Python, SQL  
 - **Machine Learning:** Prophet, Optuna, scikit-learn, pandas, NumPy, OpenCV, YOLO  
 - **Visualización de datos:** Matplotlib, Seaborn, Plotly  
-- **Optimización:** Modelos lineales, métodos simplex  
+- **Optimización:** PulP, SciPy (Modelos lineales, métodos simplex)  
 - **Otros:** Git, VS Code  
 
 ## 💡 **Estoy aprendiendo**
