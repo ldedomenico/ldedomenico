@@ -43,7 +43,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
   [Repositorio Invo.py](https://github.com/investigacion-operativa-utn/invo.py)
 
 - **Modelo de SVM y KNN (ML)**  
-  Colaboraciones al repositorio del equipo de Investigación Operativa de la UTN:
+  Desarrollo del EDA y el Pipeline para un modelo de Machine Learning de Clasificación:
   [Repositorio Deserciones Telco.py](https://github.com/ldedomenico/Data-Science-UTN.FRBA)
 
 ---
