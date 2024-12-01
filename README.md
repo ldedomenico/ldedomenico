@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luciano  
+# 👋 ¡Hola! ¡Soy Luciano!  
 
 Apasionado por la tecnología, la optimización y el análisis de datos, combino mis estudios con mi interés en la Inteligencia artificial, la Investigación Operativa y el Machine Learning.  
 
