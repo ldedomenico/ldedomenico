@@ -38,7 +38,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 
 ## 📂 **Proyectos destacados**
 
-- **Forecast de venta de combustible**  
+- **Forecast de ventas de combustibles**  
   Utilización de Prophet y tecnicas de limpieza de datos para forcasting de Nafta y Diesel:  
   [Repositorio Forecast Combustibles.py](https://github.com/ldedomenico/forecast_prophet_fuel_sales)
 
@@ -46,7 +46,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
   Mediante un video de entrada y empleando YOLO, SuperVision y DeepSort, mide el traffic flow:  
   [Repositorio Traffic Flow con Computer Vision.py](https://github.com/ldedomenico/computer_vision_traffic_flow)
 
-- **Modelo de SVM y KNN (ML)**  
+- **Modelo de SVM y KNN para detectar desersión de clientes**  
   Desarrollo del EDA y el Pipeline para un modelo de Machine Learning de Clasificación:  
   [Repositorio Deserciones Telco.py](https://github.com/ldedomenico/Data-Science-UTN.FRBA)
 
