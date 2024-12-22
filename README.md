@@ -14,9 +14,9 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 
 ## 💻 **Intereses**
 
-- **Inteligencia Artificial y Machine Learning**: me apasiona crear soluciones inteligentes para problemas complejos.  
+- **Inteligencia Artificial y Machine Learning**: me apasiona crear soluciones inteligentes y disruptivas para problemas complejos.
 - **Optimización y análisis de datos**: combino herramientas de ingeniería, visualización de datos y programación para tomar decisiones informadas.
-- **Ingeniería Industrial**: busci encontrar soluciones a problemáticas de la industria utilizando las herramientas más efectivas al alcance. 
+- **Ingeniería Industrial**: busco encontrar soluciones a problemáticas de la industria utilizando las herramientas más efectivas al alcance. 
 
 
 ## 🔧 **Tecnologías y habilidades**
@@ -30,7 +30,7 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 ## 💡 **Estoy aprendiendo**
 
 - Técnicas avanzadas de Machine Learning y Deep Learning. (Aprendizaje Supervisado y no Supervisado)
-- Aplicaciones de inteligencia artificial con computer vision.
+- Aplicaciones de inteligencia artificial con computer vision (YOLOv8, SuperVision).
 - Redes neuronales para la predicción y clasificación
 - Herramientas y frameworks como, **skit-learn**, **Prophet**, **Optuna**, **Pytorch** y otras tecnologías para la predicción y optimización.  
 
@@ -38,13 +38,21 @@ Apasionado por la tecnología, la optimización y el análisis de datos, combino
 
 ## 📂 **Proyectos destacados**
 
-- **Investigación Operativa**  
-  Colaboraciones al repositorio del equipo de Investigación Operativa de la UTN:  
-  [Repositorio Invo.py](https://github.com/investigacion-operativa-utn/invo.py)
+- **Forecast de venta de combustible**  
+  Utilización de Prophet y tecnicas de limpieza de datos para forcasting de Nafta y Diesel:  
+  [Repositorio Forecast Combustibles.py](https://github.com/ldedomenico/forecast_prophet_fuel_sales)
+
+- **Conteo de vehículos con Computer Vision**  
+  Mediante un video de entrada y empleando YOLO, SuperVision y DeepSort, mide el traffic flow:  
+  [Repositorio Traffic Flow con Computer Vision.py](https://github.com/ldedomenico/computer_vision_traffic_flow)
 
 - **Modelo de SVM y KNN (ML)**  
   Desarrollo del EDA y el Pipeline para un modelo de Machine Learning de Clasificación:  
-  [Repositorio Deserciones Telco.py](https://github.com/ldedomenico/Data-Science-UTN.FRBA) 
+  [Repositorio Deserciones Telco.py](https://github.com/ldedomenico/Data-Science-UTN.FRBA)
+
+- **Investigación Operativa**  
+  Colaboraciones al repositorio del equipo de Investigación Operativa de la UTN:  
+  [Repositorio Invo.py](https://github.com/investigacion-operativa-utn/invo.py)
 
 ---
 
